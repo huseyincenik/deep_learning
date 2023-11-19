@@ -16,12 +16,6 @@ Here you will find a variety of resources including:
 
 To get started, feel free to explore the contents of each directory. Each directory contains its own README file with specific instructions and details about the materials it contains.
 
-## Resources
-
-- **Deep Learning Book**: [Link to Deep Learning Book](link_to_deep_learning_book) - A comprehensive reference for understanding deep learning fundamentals.
-- **PyTorch Documentation**: [Link to PyTorch Docs](link_to_pytorch_docs) - Official documentation for PyTorch, a popular deep learning framework.
-- **Coursera Deep Learning Specialization**: [Link to Coursera DL](link_to_coursera_dl) - A comprehensive deep learning course series on Coursera.
-
 ## Projects
 
 | Project Name                              | Description                                | GitHub                                     | Kaggle                                       |
